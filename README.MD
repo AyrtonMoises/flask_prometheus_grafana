@@ -11,5 +11,5 @@ Flask + Prometheus + Grafana
 docker-compose up -d
 ```
 
-Dashboard no Grafana
-[http://localhost:3000/d/_eX4mpl3/]
+### Dashboard no Grafana
+http://localhost:3000/d/_eX4mpl3/
